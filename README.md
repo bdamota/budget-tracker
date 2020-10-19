@@ -7,6 +7,7 @@ This application was made to allow users to track their spending. It can be used
 https://young-woodland-48786.herokuapp.com/
 
 ## Screenshot
+![image](https://github.com/bdamota/budget-tracker/blob/main/Screen%20Shot%202020-10-18%20at%209.45.55%20PM.png)
 
 ## Install 
 - Clone GitHub repository
